@@ -1,0 +1,152 @@
+* {
+  font-family: Arial;
+  background-color: #B0C0CF;
+  font-size: 1em;
+}
+
+p.info1 {
+  background-color: #B0C0CF;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 5px;
+  border-color: #7090A0;
+  padding: 5px;
+}
+
+ul {
+  background-color: #B0C0CF;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 5px;
+  border-color: #7090A0;
+}
+
+ol {
+  background-color: #B0C0CF;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 5px;
+  border-color: #7090A0;
+}
+
+h1.basicH1 {
+  border-style: inset;
+  border-radius: 3px;
+  border-width: 3px;
+  border-color: #5F6F6F;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #7090A0;
+  width: 15em;
+  height: 3em;
+  text-align: center;
+}
+
+div.main {
+  margin-left: 7em;
+  margin-right: 7em;
+}
+
+span.spanBold {
+  font-weight: bold;
+  text-align: center;
+}
+
+div.ref1 {
+  margin-left: 3em;
+  margin-right: 3em;
+  float: right;
+  padding: 10px;
+}
+
+div.ref2 {
+  margin-left: 3em;
+  margin-right: 3em;
+  float: left;
+  padding: 10px;
+}
+
+div.ref3 {
+  margin-left: 3em;
+  margin-right: 3em;
+  float: left;
+  padding: 10px;
+}
+
+div.ref4 {
+  margin-left: 3em;
+  margin-right: 3em;
+  float: right;
+  padding: 10px;
+}
+
+div.ref5 {
+  margin-left: 3em;
+  margin-right: 3em;
+  float: left;
+  padding: 10px;
+}
+
+td.ref1 {
+  background-color: #7090A0;
+  padding: 5px;
+}
+
+table.ref1 {
+  border: 3px inset #5F6F6F;
+  border-radius: 5px;
+  width: 200px;
+  background-color:#7090A0;
+  height: 150px;
+}
+
+table.ref2 {
+  border: 3px inset #5F6F6F;
+  border-radius: 5px;
+  width: 200px;
+  background-color:#7090A0;
+  height: 150px;
+}
+
+table.ref3 {
+  border: 3px inset #5F6F6F;
+  border-radius: 5px;
+  width: 200px;
+  background-color:#7090A0;
+  height: 150px;
+}
+
+table.ref4 {
+  border: 3px inset #5F6F6F;
+  border-radius: 5px;
+  width: 200px;
+  background-color:#7090A0;
+  height: 150px;
+}
+
+table.ref5 {
+  border: 3px inset #5F6F6F;
+  border-radius: 5px;
+  width: 200px;
+  background-color:#7090A0;
+  height: 150px;
+}
+
+div.footer {
+  margin-top: 400px;
+  height: 40px;
+	background-color: #7090A0;
+  padding: 5px;
+  border-radius: 10px;
+  clear: both;
+}
+
+p.footer {
+	background-color: #7090A0;
+	font-family: Courier;
+	font-size: 0.8em;
+	text-align: center;
+  border: solid #7090A0;
+  clear: both;
+  border-radius: 10px;
+}

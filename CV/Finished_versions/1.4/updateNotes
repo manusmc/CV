@@ -1,0 +1,7 @@
+1. Rather than have complete new folders to tweak the colours, i am adding
+new CSS files and making it so I can just tweak the html rather than mess
+around with different versions.
+
+2. H1 is now a set width rather than being dependent on margins.
+
+3. Fixed space issues within P borders.
